@@ -6,7 +6,7 @@ edit it
 fry it 
 eat it 
 do whatever you want with it! :) 
-
+Thanks to clarkycal for the original plugin code.
 -----------
 
 How to Install:
